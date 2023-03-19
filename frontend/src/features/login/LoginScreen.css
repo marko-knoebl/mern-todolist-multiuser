@@ -1,0 +1,9 @@
+.LoginScreen {
+  text-align: center;
+}
+
+.LoginScreen__List {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}

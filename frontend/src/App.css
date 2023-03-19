@@ -1,0 +1,10 @@
+.App {
+  margin: 0px auto;
+  max-width: 800px;
+}
+
+.App__MainContent {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
